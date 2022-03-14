@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        //Задача №1:
+        //Задача №1:///////
         int[] arrInt = new int[3];
         arrInt[0] = 1;
         arrInt[1] = 2;
